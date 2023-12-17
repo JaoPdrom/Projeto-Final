@@ -7,19 +7,18 @@ Este repositório contém o código-fonte para o projeto final da disciplina Alg
   
 - FUNCIONALIDADES:
     - a. Cadastro de funcionários:
-        i. Adicionar novos funcionário no sistema.
+      - Adicionar novos funcionário no sistema.
         
     - b. Cadastro de Insumos alimentícios:
-        i. Adicionar novos insumos alimentícios ao estoque (nome, quantidade,
-        data de validade, etc.).
-        ii. Atualizar informações dos ingredientes existentes.
+      - Adicionar novos insumos alimentícios ao estoque (nome, quantidade, data de validade, etc).
+      - Atualizar informações dos ingredientes existentes.
         
     - c. Controle de Estoque:
-        i. Registrar a entrada de novos ingredientes.
+      - Registrar a entrada de novos ingredientes.
         
     - d. Pesquisa e Visualização:
-        i. Pesquisar ingredientes por nome.
-        ii. Visualizar a lista de ingredientes em estoque.
+      - Pesquisar ingredientes por nome.
+      - Visualizar a lista de ingredientes em estoque.
         
 
 # **Pré-requisitos:**
