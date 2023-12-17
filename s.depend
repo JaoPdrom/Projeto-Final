@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1702424934 source:c:\users\joão\desktop\faculdade\s\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+	"funcoes.h"
+
+1702416266 c:\users\joão\desktop\faculdade\s\structs.h
+
+1702425916 source:c:\users\joão\desktop\faculdade\s\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"structs.h"
+	"funcao.h"
+	"menu.h"
+	"funcoes.h"
+
+1702430919 c:\users\joão\desktop\faculdade\s\funcao.h
+
+1702401009 c:\users\joão\desktop\faculdade\s\menu.h
+
+1702426165 source:c:\users\joão\desktop\faculdade\s\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	"structs.h"
+	"funcoes.h"
+
+1702425944 c:\users\joão\desktop\faculdade\s\funcoes.h
+
